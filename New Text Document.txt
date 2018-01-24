@@ -1,0 +1,6 @@
+admin
+admin123
+
+data base:
+dbbaby
+user: adminbaby
